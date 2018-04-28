@@ -13,6 +13,7 @@ public class Diaolan implements GreenPlants{
 
     @Override
     public void canfreshAir() {
+
         System.out.println("净化甲醛！");
     }
 }
